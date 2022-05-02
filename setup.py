@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/mihjovil/package_template',
     project_urls={
-        "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
+        "Other repos": "https://github.com/mihjovil?tab=repositories"
     },
     license='MIT',
     packages=['package_name'],
